@@ -41,6 +41,9 @@ I’m a passionate developer focused on building **scalable, impactful products*
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge\&logo=stripe\&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge\&logo=cloudinary\&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-000000?style=for-the-badge\&logo=npm\&logoColor=white)
 
 ---
 
@@ -80,7 +83,7 @@ I’m a passionate developer focused on building **scalable, impactful products*
 
 ## 📫 Connect with Me
 
-* 📧 **Email:** [swapnaneelkundu@example.com](mailto:swapnaneelkundu@example.com)
+* 📧 **Email:** [swapnaneelkundu2@gmail.com](mailto:swapnaneelkundu2@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/swapnaneel-kundu-8935751bb/)
 * 🐦 [Twitter](https://x.com/KunduSwapnaneel)
 * 📞 **Phone:** +91-8649894708
