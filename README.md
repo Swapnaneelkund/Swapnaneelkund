@@ -57,9 +57,9 @@ I’m a passionate developer focused on building **scalable, impactful products*
 
 ### 🛒 LuxeCarry (E-commerce Platform)
 
-* MERN stack project with **Google OAuth, cart system, product search**
+* MERN stack project with **Google OAuth, cart system, product search , Stripe payment,Cloudinary and multer Integration**
 * Data validation with **Joi**, secure authentication with **bcrypt**
-* Clean and maintainable full-stack deployment
+* Clean,modular and maintainable full-stack deployment
 
 ### ⚡ Real-Time Location Tracker
 
